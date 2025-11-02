@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Jin-mr05
+- 👋 Hi, I’m thaian
 - 👀 I’m interested in coding languages, especially Javascript
 - 🌱 I’m currently learning NestJs
 - ✌️ I'm recently working with:
