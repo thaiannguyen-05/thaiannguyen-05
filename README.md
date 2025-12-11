@@ -7,25 +7,25 @@
 
   - Backend & Architecture
 
-   - Medium to complex Microservices architectures
-  
-   - Event-driven systems and Message Queues (Redis, RabbitMQ)
-  
-   - Designing scalable and maintainable backend services
+     - Medium to complex Microservices architectures
+    
+     - Event-driven systems and Message Queues (Redis, RabbitMQ)
+    
+     - Designing scalable and maintainable backend services
 
   - Databases
   
-   - SQL: PostgreSQL, Microsoft SQL Server
-  
-   - NoSQL: MongoDB, Elasticsearch
+     - SQL: PostgreSQL, Microsoft SQL Server
+    
+     - NoSQL: MongoDB, Elasticsearch
 
   - System Design
 
-   - API design (REST / GraphQL)
-  
-   - Design systems & modular architecture
-  
-   - Performance, scalability, and maintainability considerations
+     - API design (REST / GraphQL)
+    
+     - Design systems & modular architecture
+    
+     - Performance, scalability, and maintainability considerations
 
 💞️ I’m looking to collaborate on projects where I can contribute real value, learn from experienced engineers, and continuously improve my skills.
 
